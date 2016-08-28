@@ -95,9 +95,9 @@ section article{width: 100%; margin: 0 auto;}
 @media only screen and (max-width: 570px) {
 	header div p{ padding-bottom:6%;}
 	ul li{float:nnone; display: none;}
-	.right h1{font-size:450%;}
-	.right h2{font-size: 200%;
-	.right p{font-size: 180%;}
+	.right h1{font-size:440%;}
+	.right h2{font-size: 190%;
+	.right p{font-size: 160%;}
 	.right b{font-size: 100%; }
 }
 		
